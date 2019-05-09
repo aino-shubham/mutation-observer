@@ -1,0 +1,20 @@
+#header1{
+
+    width:1520px;
+    height:50px;
+    background-color:darkgray;
+    text-align:center;
+   }
+   
+   .editor-div{
+       width:1520px;
+       height:680px;
+       background-color:#a9a9a925;
+       text-align:center;
+   }
+   #footer1{
+       width:1520px;
+       height:50px;
+       background-color:darkgray;
+       text-align:center;
+   }
